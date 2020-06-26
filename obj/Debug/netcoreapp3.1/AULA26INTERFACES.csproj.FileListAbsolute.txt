@@ -1,0 +1,13 @@
+C:\Users\vinicius\Documents\AULA26INTERFACES\obj\Debug\netcoreapp3.1\AULA26INTERFACES.csprojAssemblyReference.cache
+C:\Users\vinicius\Documents\AULA26INTERFACES\obj\Debug\netcoreapp3.1\AULA26INTERFACES.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\AULA26INTERFACES\obj\Debug\netcoreapp3.1\AULA26INTERFACES.AssemblyInfoInputs.cache
+C:\Users\vinicius\Documents\AULA26INTERFACES\obj\Debug\netcoreapp3.1\AULA26INTERFACES.AssemblyInfo.cs
+C:\Users\vinicius\Documents\AULA26INTERFACES\bin\Debug\netcoreapp3.1\AULA26INTERFACES.exe
+C:\Users\vinicius\Documents\AULA26INTERFACES\bin\Debug\netcoreapp3.1\AULA26INTERFACES.deps.json
+C:\Users\vinicius\Documents\AULA26INTERFACES\bin\Debug\netcoreapp3.1\AULA26INTERFACES.runtimeconfig.json
+C:\Users\vinicius\Documents\AULA26INTERFACES\bin\Debug\netcoreapp3.1\AULA26INTERFACES.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\AULA26INTERFACES\bin\Debug\netcoreapp3.1\AULA26INTERFACES.dll
+C:\Users\vinicius\Documents\AULA26INTERFACES\bin\Debug\netcoreapp3.1\AULA26INTERFACES.pdb
+C:\Users\vinicius\Documents\AULA26INTERFACES\obj\Debug\netcoreapp3.1\AULA26INTERFACES.dll
+C:\Users\vinicius\Documents\AULA26INTERFACES\obj\Debug\netcoreapp3.1\AULA26INTERFACES.pdb
+C:\Users\vinicius\Documents\AULA26INTERFACES\obj\Debug\netcoreapp3.1\AULA26INTERFACES.genruntimeconfig.cache
